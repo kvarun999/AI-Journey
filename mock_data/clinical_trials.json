@@ -1,0 +1,23 @@
+{
+  "molecule": "Metformin",
+  "trials": [
+    {
+      "disease": "Type 2 Diabetes",
+      "phase": "Phase 3",
+      "status": "Completed",
+      "sponsor": "NIH"
+    },
+    {
+      "disease": "PCOS",
+      "phase": "Phase 2",
+      "status": "Recruiting",
+      "sponsor": "University of Oxford"
+    },
+    {
+      "disease": "Obesity",
+      "phase": "Phase 1",
+      "status": "Recruiting",
+      "sponsor": "Private Pharma"
+    }
+  ]
+}
