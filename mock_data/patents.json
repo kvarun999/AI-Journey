@@ -1,0 +1,23 @@
+{
+  "molecule": "Metformin",
+  "patents": [
+    {
+      "country": "US",
+      "patent_id": "US123456",
+      "expiry_year": 2028,
+      "status": "Active"
+    },
+    {
+      "country": "EU",
+      "patent_id": "EP987654",
+      "expiry_year": 2024,
+      "status": "Expired"
+    },
+    {
+      "country": "India",
+      "patent_id": "IN456789",
+      "expiry_year": 2023,
+      "status": "Expired"
+    }
+  ]
+}
