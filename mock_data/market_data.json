@@ -1,0 +1,22 @@
+{
+  "therapy_areas": [
+    {
+      "therapy": "Type 2 Diabetes",
+      "market_size_usd_bn": 85,
+      "cagr_percent": 6.2,
+      "competition_level": "High"
+    },
+    {
+      "therapy": "PCOS",
+      "market_size_usd_bn": 12,
+      "cagr_percent": 9.5,
+      "competition_level": "Low"
+    },
+    {
+      "therapy": "Obesity",
+      "market_size_usd_bn": 55,
+      "cagr_percent": 8.1,
+      "competition_level": "Medium"
+    }
+  ]
+}
